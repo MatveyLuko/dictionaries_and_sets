@@ -8,7 +8,7 @@ print(my_dict)
 del my_dict['Kriko']
 print(my_dict.get('Kriko'))
 
-#Работа с множествами:
+#Работа со множествами:
 my_set = {1,2,3,2,1,1, 'book', 'string', 'book', True,}
 print(my_set)
 my_set.update(["cake",(1,2,3)])
